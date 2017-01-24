@@ -1,0 +1,177 @@
+._form .form-group {
+	margin-bottom: 10px;
+}
+
+._form .form-group label {
+	margin-bottom: 0px;
+	font-weight:bold;
+}
+
+._form .form-footer {
+	border-top: 1px solid #e5e5e5;
+    padding-top: 15px;
+    text-align: center;
+    margin-left: -30px;
+    margin-right: -30px;
+}
+._form a:hover {
+	cursor:pointer;
+	text-decoration:none;
+}
+
+/**** Login - Form ****/
+.login-form {
+	border: 1px solid #E4E4E4;
+    border-radius: 5px;
+	width: 250px;
+	height: 270px;	
+	margin-left: auto;
+	padding: 15px 20px 10px 20px;    
+	background-color: #EDEDED;
+	font-size:16px;
+}
+
+.login-form  a {
+	font-size:12px !important;
+	cursor: pointer;
+}
+
+.login-form  a:hover {	
+	text-decoration: none;
+}
+
+.login-form-header {
+	font-size: 25px;
+	letter-spacing: -1px;
+	color: #47413b;
+	margin: 0 0 5% 0;
+	font-weight:bold;	
+}
+
+.login-form-footer {
+	border-top: 1px solid #ccc;
+    padding-top: 5px;
+}
+
+.login-form .app-btn {
+	background-color: #62BEFF !important;
+    color: white;
+    width: 30%;
+    float: right !important;
+    margin-top: 5px;
+    padding: 4px 12px !important;
+}
+
+.login-form   .login-form-body a {
+	color: #337ab7 !important;
+}
+.login-form   .login-form-body a:hover{
+	color: #1666ab !important;
+}
+
+.login-form .checkbox {
+	position: absolute;
+	margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+/**** Modal - Forms ****/
+.modal-form {
+	padding: 0px 20px 0px 20px;
+}
+
+.modal-form a {
+	font-size:14px;
+	color: #f79649;
+}
+
+.modal-form  a:hover {
+	cursor: pointer !important;
+	text-decoration:none !important;
+	color: #f57815;
+}
+
+.modal-form .help-block {
+	font-size:12px;
+}
+
+.modal-form .modal-content {
+	width: 500px;
+}
+
+.wide-modal-form  .modal-content {
+	width: 100% !important;
+}
+.modal-form .modal-body {
+	padding: 15px 30px 15px 30px;
+}
+
+.modal-form  .modal-header h4 {
+	font-weight:bold;
+}
+
+.modal-form  .modal-footer {
+	text-align: center!important;
+}
+
+.modal-form  .app-btn {
+	background-color: #f79649 !important;
+    color: white;
+	border: none !important;
+	margin: 0px;
+    float: none !important;
+    width: 30%;
+    height: 28px;
+    padding-top: 3px;
+}
+
+.modal-form .app-btn:hover {
+	background-color: #f57815 !important;
+	border:none !important;
+	color: white !important;
+} 
+
+ /**** ContactUs - Form ****/
+.contactus-form {
+	display: inline-block !important;
+	margin-bottom:50px;
+}
+.contactus-form .form-group {
+	margin-right:30px;
+	width:250px
+}
+.contactus-form  .btn {
+	float:left !important;
+	
+}
+.contactus-form  textarea {
+	resize: none;
+	height:100px !important;
+}
+
+.standalone-forms {
+	width: 500px;
+    background-color: whitesmoke;
+    margin: -70px -500px -105px 0px;
+    border-radius: 10px;
+}
+
+ .standalone-forms .form-header {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 25px 0px 20px 40px;
+    border-bottom: 1px solid #cccccc;
+ }
+ 
+ .standalone-forms .form-body {
+	padding: 15px 40px 5px 40px;
+    font-size: 16px;
+ } 
+ 
+ .standalone-forms .form-footer {
+	text-align: center;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #cccccc;
+ }
+ 

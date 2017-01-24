@@ -1,0 +1,113 @@
+
+.servicePackages .leftPane{
+    float:left!important;
+    width:20%!important;
+    background-color:#777777!important;
+    height:750px!important;
+}
+.aTag{
+	color: White !important;
+}
+.aTag:hover{
+	color: #f79649 !important;
+}
+.liTag{
+	list-style : none;
+	font-weight:bold;
+	padding:10px;
+	height :40px;
+	border-bottom: 2px solid grey;
+	cursor: pointer
+}
+.packagesPlans{
+	width: 990px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 1px solid #E4E4E4;
+	text-align: center;
+}
+.packagesPlansTh {
+	border: 3px solid black;
+	text-align: center!important;
+    color:white;
+	font-size: 20px;
+	background-color: #f79649;
+    
+}
+.plansTh {
+	border: 3px solid black;
+	text-align: center!important;
+    color:white;
+	width:52%;
+	font-size: 20px;
+	background-color: #f79649;
+    
+}
+.addOnsTable{
+	width:990px;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	border: 1px solid #E4E4E4;
+}
+.packagesTd{
+	border: 1px solid #E4E4E4;
+	text-align: -webkit-center;
+	background-color: #d4d2d2;
+}
+.packagesTdWhite{
+	border: 1px solid #E4E4E4;
+	text-align: -webkit-center;
+	background-color:white;
+}
+.packagesTdParameter{
+	border: 1px solid #E4E4E4;
+	text-align: -webkit-center;
+	background-color: #f79649;
+    color: white;
+}
+.applicationsPlans{
+	width: 990px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 1px solid #E4E4E4;
+	text-align: center;
+}
+.customHeaders{
+	text-align:center;
+	font-weight: bold;
+	color: #167dc7;
+}
+.upgradePlan-form {
+	padding: 0px 20px 0px 20px;
+	left: 160px;
+    top: 140px;
+}
+
+.upgradePlan-form .help-block {
+	font-size:12px;
+}
+
+.upgradePlan-form .modal-content {
+	width: 400px;
+}
+
+.upgradePlan-form .modal-body {
+	padding: 15px 30px 15px 30px;
+}
+
+.upgradePlan-form .modal-footer {
+	text-align: center;
+    padding: 10px;
+}
+
+.upgradePlan-form a:hover{
+	cursor:pointer;
+	text-decoration:none;
+}
+.upgradePlan-success{
+	top:140px;
+}
+button:focus{
+	background-color: #f79649!important;
+	color:white!important;
+}

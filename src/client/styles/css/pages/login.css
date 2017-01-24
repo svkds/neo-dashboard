@@ -1,0 +1,56 @@
+/**** Login - Page ****/
+.login  a {
+	color: white !important;
+	font-size: 20px;
+}
+
+.login  a :hover{
+	color: white !important;
+}
+
+.login .app-header {
+	background-color: #f79649;
+	color: #f9f0f0;
+	min-height: 40px;
+    width: 100%;
+    padding: 5px;
+	box-shadow: 1px 2px 3px grey;
+}
+
+.login .app-header-col1 {	
+	background-image: url(../../images/theme-1/login-header-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 300px;
+    background-size: contain;
+    margin: 0px 0px 0px 10px;
+}
+
+.login .app-header-col2 {
+	display: none !important;
+}
+
+.login .app-header-col3 {
+	display: none !important;
+}
+
+.login .app-body {
+	background: url(../../images/theme-1/login-bg.jpg) no-repeat;
+	background-color: black;
+	background-size: 100%;
+	padding: 120px 100px 145px 0px;
+	display:flex;	
+	font-size:20px;
+}
+
+.login .app-body-col2 {
+	color:white;
+	margin-left: 23%;
+    width: 100%;
+	margin-top: -40px;
+	padding: 0px;
+}
+
+.login .app-body-col2 span {
+	padding-right:20px;
+	text-align:left;
+}

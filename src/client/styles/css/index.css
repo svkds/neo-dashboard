@@ -1,0 +1,11 @@
+@import url("./vendor/bootstrap.min.css");
+@import url("./themes/theme-1.css");
+@import url("./pages/login.css");
+@import url("./themes/form.css");
+@import url("./pages/global.css");
+@import url("./fonts/font.css");
+@import url("./pages/servicesPackages.css");
+
+/*Orange : #ff6600*/
+/*Grey: #999999*/
+/*white: #ffffff*/

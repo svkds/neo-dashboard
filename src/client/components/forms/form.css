@@ -1,0 +1,107 @@
+._form .form-group {
+	margin-bottom: 10px;
+}
+
+._form .form-group label {
+	margin-bottom: 0px;
+	font-weight:bold;
+}
+
+._form .form-footer {
+	border-top: 1px solid #e5e5e5;
+    padding-top: 15px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: -30px;
+    margin-right: -30px;
+}
+
+/**** Login - Form ****/
+.login-form {
+	border: 1px solid #E4E4E4;
+    border-radius: 5px;
+	width: 250px;
+	height: 270px;	
+	margin-left: auto;
+	padding: 15px 20px 10px 20px;    
+	background-color: #EDEDED;
+	font-size:16px;
+}
+
+.login-form  a {
+	font-size:12px;
+	cursor: pointer;
+}
+
+.login-form  a:hover {	
+	text-decoration: none;
+}
+
+.login-form-header {
+	font-size: 25px;
+	letter-spacing: -1px;
+	color: #47413b;
+	margin: 0 0 5% 0;
+	font-weight:bold;	
+}
+
+.login-form-footer {
+	border-top: 1px solid #ccc;
+    padding-top: 5px;
+}
+
+.login-form .checkbox {
+	position: absolute;
+	margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+/**** SignUp - Form ****/
+.signup-form {
+	padding: 0px 20px 0px 20px;
+}
+
+.signup-form .help-block {
+	font-size:12px;
+}
+
+.signup-form .modal-content {
+	width: 500px;
+}
+
+.signup-form .modal-body {
+	padding: 15px 30px 15px 30px;
+}
+
+.signup-form .modal-footer {
+	text-align: center;
+    padding: 10px;
+}
+
+
+.signup-form a:hover{
+	pointer:cursor;
+	text-decoration:none;
+}
+.signup-form a:hover{
+	cursor:pointer;
+	text-decoration:none;
+}
+
+
+.contactus-form {
+	display: inline-block !important;
+	margin-bottom:50px;
+}
+.contactus-form .form-group {
+	margin-right:30px;
+	width:250px
+}
+.contactus-form  .btn {
+	float:left !important;
+	
+}
+.contactus-form  textarea {
+	resize: none;
+	height:100px !important;
+}

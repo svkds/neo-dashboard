@@ -1,0 +1,156 @@
+.mandatory:after{
+	color: red;
+	content:"*";
+    font-size: smaller;
+}
+
+.theme-1 {
+	font-family: franklin-gothic-book !important;
+	font-size: 16px;
+}
+
+.modal-dialog {
+	font-family: franklin-gothic-book !important;
+	font-size: 16px;
+}
+
+.theme-1 a {
+	font-size:14px;
+	color: #f79649;
+}
+
+.theme-1  a:hover {
+	cursor: pointer !important;
+	text-decoration:none !important;
+	color: #f57815;
+}
+
+.theme-1 .app-btn {
+	background-color: #f79649;
+    color: white;
+	border: none !important;
+	float: none !important;
+    width: 30%;
+    height: 28px;
+    padding-top: 3px;
+}
+
+.theme-1 .app-btn:hover {
+	background-color: #f57815;
+	border:none !important;	
+	color: white !important;
+}
+
+.theme-1 .app-header {
+	background-color: #777777;
+    color: white;
+    box-shadow: 1px 2px 3px grey;
+	height: 50px;
+    width: 100%;   
+    padding: 15px;
+	display: flex;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.theme-1 .app-header a {
+	color: white !important;
+}
+
+.theme-1 .app-header a:hover {
+	color: #f79649 !important;
+}
+
+.theme-1 .app-header-col1 {
+	background-image: url('../../images/theme-1/neo-logo.png');
+    background-size: 70px 65px;
+    margin: -22px 0px -25px 0px;
+    padding-left: 100px;
+    background-repeat: no-repeat;
+}
+
+.theme-1 .app-header-col2 {
+    padding-left: 60px;		
+}	
+	
+.theme-1 .app-header-col2 a {      
+	padding-right: 30px;
+}
+
+.theme-1 .app-header-col3  {	
+	background: url(../../images/theme-1/default-avatar.png) no-repeat right;
+    padding-left: 50%;
+    padding-right: 40px;
+    text-align: center;
+    display: block !important;    
+    margin-top: -10px;
+    background-size: contain;
+    line-height: initial;
+}
+.theme-1 .app-header-col3  a {	
+	padding-left: 20px;
+}
+
+.theme-1 .navigation-bar {
+	background-color: #d4d2d2;
+    height: 40px;
+    color: #167dc7;
+    padding: 8px 30px 5px 20px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.theme-1 .app-footer {
+	background-color: grey;
+	color: white;
+	height: 30px;
+    width: 100%;
+	font-size:10px;
+	padding: 9px 5px 5px 5px;
+	text-align: center;
+}
+
+.theme-1 .app-body {
+    height: 100%;
+	display:flex;
+}
+.theme-1 .app-body-col1 {
+	width:25%;
+}
+.theme-1 .app-body-col1  .content {
+	display: table;
+    width: 80%;
+	border: 1px solid #8a8989;
+	background-color:#8a8989;  
+	color: white;	
+	padding: 10px;
+    height: 545px;
+}
+
+.theme-1 .app-body-col2 {	
+	width:50%;
+}
+
+.theme-1 .app-body-col2  .content {
+	display: table;	
+	padding: 10px;
+    height: 545px;
+}
+
+.theme-1 .app-body-col3 {
+	
+}
+
+.mandatory:after{
+	color: red;
+	content:" *";
+}
+
+/*KOTI's code*/
+.theme-1 .leftPane li a {
+	color: white !important;
+}
+
+.theme-1  .leftPane ul li a:hover{
+	color: Orange !important;
+}
